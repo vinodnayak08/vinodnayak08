@@ -46,7 +46,7 @@
   <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
 <br>
-
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinodnayak08&show_icons=true&locale=en" alt="VinodNayak" /></p>
 
 <!--<p align="center"><img src="https://profile-counter.glitch.me/vinodnayak08/count.svg" alt=""/></p>-->
