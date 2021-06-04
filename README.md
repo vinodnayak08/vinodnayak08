@@ -49,4 +49,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinodnayak08&show_icons=true&locale=en" alt="VinodNayak" /></p>
 
-<p align="center"><img src="https://profile-counter.glitch.me/vinodnayak08/count.svg" alt=""/></p>
+<!--<p align="center"><img src="https://profile-counter.glitch.me/vinodnayak08/count.svg" alt=""/></p>-->
