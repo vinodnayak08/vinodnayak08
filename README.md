@@ -9,7 +9,7 @@
 
 - 💻 You can find my projects on this link :      [vinodnayak08.github.io](vinodnayak08.github.io)
 
-- 📧 Mail id :   **vinodknayak10@gmail.com**
+- 📧 Mail id :   [vinodknayak10@gmail.com](mailto:absphreak@outlook.com)
 
 - 📊 **I have a great interest towards Data Science & Analytics and I'm trying to learn more and more about it.**
 
