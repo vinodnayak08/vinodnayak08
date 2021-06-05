@@ -7,7 +7,7 @@
 
 - 🕮 Currently, I'm pursuing my PG degree in **Master of Computer Application** from **VESIT**
 
-- 💻 You can find my projects on this link :      [vinodnayak08.github.io](vinodnayak08.github.io)
+- 💻 You can find my projects on this link :      *[vinodnayak08.github.io](vinodnayak08.github.io)*
 
 - 📧 Mail id :   [vinodknayak10@gmail.com](mailto:absphreak@outlook.com)
 
