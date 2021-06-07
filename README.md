@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=250&section=header&text=Vinod%20Nayak&fontSize=50&animation=blinking" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=250&section=header&text=Vinod%20Nayak&fontSize=50&animation=blinking&fontAlignY=40" />
 
 <h1 align="center">Hello Everyone  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="40px">, Vinod Nayak here</h1>
 <h3 align="center">Nice to meet you.</h3>
