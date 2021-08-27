@@ -6,7 +6,7 @@
 
 
 
-- 🕮 Currently, I'm pursuing my PG degree in **Master of Computer Application** from **VESIT**
+- 🕮 Currently, I'm pursuing my PG degree in **Master of Computer Application** from **VES Institute of Technology**
 
 - 💻 You can find my projects on this link :      *[vinodnayak08.github.io](vinodnayak08.github.io)*
 
