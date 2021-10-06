@@ -12,7 +12,7 @@
 
 - 📧 Mail id :   *[vinodknayak10@gmail.com](mailto:vinodknayak10@gmail.com)*
 
-- 📊 **I have a great interest towards Data Science & Analytics and I'm trying to learn more and more about it.**
+- 📊 **I have a great interest towards Data Science & Analytics Domain and I'm trying to learn more and more about it.**
 
 - 🥇 Badges :     *[Credly - Vinod Nayak](https://www.credly.com/users/vinod-nayak.4a439120/badges)*
 
