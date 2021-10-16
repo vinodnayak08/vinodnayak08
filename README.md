@@ -22,7 +22,7 @@
 <a href="https://linkedin.com/in/vinodnayak08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="VinodNayak" height="30" width="40" /></a>&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/vinodnayak08" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" height="30" width="30" /></a>&nbsp;&nbsp;
   <a href="https://public.tableau.com/profile/vinod.nayak#" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/76/Tableau0147.png" alt="VinodNayak" height="30" width="40" /></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/vinod_nayak08/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="VinodNayak" height="30" width="40" /></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/vinodnayak_08/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="VinodNayak" height="30" width="40" /></a>&nbsp;&nbsp;
   <a href="https://twitter.com/vinodnayak08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="VinodNayak" height="30" width="40" /></a>
  
 </p>
