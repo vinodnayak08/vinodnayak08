@@ -16,7 +16,7 @@
 
 - 🥇  Badges :     *[Credly - Vinod Nayak](https://www.credly.com/users/vinod-nayak.4a439120/badges)*
 
-<br>
+
 <h3 align="left">Connect with me :</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vinodnayak08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="VinodNayak" height="30" width="40" /></a>&nbsp;&nbsp;
