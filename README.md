@@ -8,7 +8,7 @@
 
 - 🕮  Currently, I'm pursuing my PG degree in **Master of Computer Application** from **VES Institute of Technology**
 
-- 💻  You can find my projects on this link :      *[vinodnayak08.github.io](https://github.com/vinodnayak08)*
+- 💻  You can find my projects on this link :       *[vinodnayak08.github.io](https://github.com/vinodnayak08)*
 
 - 📧  Mail id :   *[vinodknayak10@gmail.com](mailto:vinodknayak10@gmail.com)*
 
