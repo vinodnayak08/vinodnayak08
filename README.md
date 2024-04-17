@@ -16,7 +16,7 @@
 
 - 📊  **I have a great interest towards Data Science & Analytics Domain and I'm trying to learn more and more about the same.**
 
-- 🥇  Badges :     *[Credly - Vinod Nayak](https://www.credly.com/users/vinod-nayak.4a439120/badges)*
+- 🥇  Certificates & Badges :     *[Credly - Vinod Nayak](https://www.credly.com/users/vinod-nayak.4a439120/badges)* *'https://credentials.databricks.com/d3ddeedb-d4c0-43a8-9352-9029bd1ca428'*
 
 <br>
 
