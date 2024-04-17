@@ -6,7 +6,9 @@
 
 
 
-- 🕮  Currently, I'm pursuing my PG degree in **Master of Computer Application** from **VES Institute of Technology**
+- 💻  Currently, I'm working as a Data Engineer at **General Mills** 
+
+- 🕮  I have completed my **Master of Computer Application** from **VES Institute of Technology**
 
 - 💻  You can find my projects on this link :       *[vinodnayak08.github.io](https://github.com/vinodnayak08)*
 
