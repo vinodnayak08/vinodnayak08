@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Vinod%20Nayak&fontSize=50&animation=scaleIn&fontAlignY=38&fontAlign=75&reversal=true" />
 
-<h1 align="center"> Hello Everyone  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="40px">, Vinod Nayak here</h1>
+<h1 align="center"> Hello Everyone  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="40px">, Vinod Nayak  *[Credly - Vinod Nayak](https://www.credly.com/users/vinod-nayak.4a439120/badges)* here</h1>
 <h3 align="center"> Nice to meet you.</h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=vinodnayak08 alt=VinodNayak/> </p>
 
