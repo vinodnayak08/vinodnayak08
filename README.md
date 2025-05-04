@@ -8,7 +8,7 @@
 
 - 💻  Currently, I'm working as a Data Engineer at **General Mills** 
 
-- 🕮  I have completed my **Masters** from **VES Institute of Technology**
+- 🕮  I have completed my **Masters** from **VES Institute of Technology, Mumbai**
 
 - 💻  You can find my projects on this link :       *[vinodnayak08.github.io](https://github.com/vinodnayak08)*
 
